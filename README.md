@@ -41,14 +41,20 @@ If you already have java installed, you may [Skip This Step](#part-two-install-i
 ![Introduction](i2pnext.png)
 ![Accept the License Agreement(or mostly lack thereof)](i2plicense.png)
 ![Select the path to install to](i2ppath.png)
-![Finish it up](installrun.png)
+![Select Components](installbase.png)
+![Wait a moment](installrun.png)
 ![Finish it up](installed.png)
 
 ### Part Three: Install a Real Browser(Firefox)
 
 If you already have Firefox installed, you may [Skip This Step](#part-four-configure-i2p-bandwidth)
 
+![Get Firefox](firefox.png)
+![Run the installer](firefox-installer.png)
+![Grab the Firefox Profile](profile.png)
+![Select your language](profilelang.png)
+![Accpt the License Agreement](profilelicense.png)
+![Now your browser is configured](profiledone.png)
+
 ### Part Four: Configure I2P Bandwidth
-
-
 
