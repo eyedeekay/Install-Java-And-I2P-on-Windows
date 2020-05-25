@@ -26,35 +26,35 @@ We're going to finish four tasks. We are going to:
 
 If you already have java installed, you may [Skip This Step](#part-two-install-i2p)
 
-![Uh oh, no Java yet](nojava.png)
-![You need Oracle Java for Windows](oraclejava.png)
-![So download it](getjava.png)
-![Start installing Java](startjava.png)
-![Step one](installjava.png)
-![Step two](installjava2.png)
-![You're done!](installedjava.png)
+1. ![Uh oh, no Java yet](nojava.png)
+2. ![You need Oracle Java for Windows](oraclejava.png)
+3. ![So download it](getjava.png)
+4. ![Start installing Java](startjava.png)
+5. ![Step one](installjava.png)
+6. ![Step two](installjava2.png)
+7. ![You're done!](installedjava.png)
 
 ### Part Two: Install I2P
 
-![Download I2P](geti2p.png)
-![Select your Language](i2plang.png)
-![Introduction](i2pnext.png)
-![Accept the License Agreement(or mostly lack thereof)](i2plicense.png)
-![Select the path to install to](i2ppath.png)
-![Select Components](installbase.png)
-![Wait a moment](installrun.png)
-![Finish it up](installed.png)
+1. ![Download I2P](geti2p.png)
+2. ![Select your Language](i2plang.png)
+3. ![Introduction](i2pnext.png)
+4. ![Accept the License Agreement(or mostly lack thereof)](i2plicense.png)
+6. ![Select the path to install to](i2ppath.png)
+7. ![Select Components](installbase.png)
+8. ![Wait a moment](installrun.png)
+9. ![Finish it up](installed.png)
 
 ### Part Three: Install a Real Browser(Firefox)
 
 If you already have Firefox installed, you may [Skip This Step](#part-four-configure-i2p-bandwidth)
 
-![Get Firefox](firefox.png)
-![Run the installer](firefox-installer.png)
-![Grab the Firefox Profile](profile.png)
-![Select your language](profilelang.png)
-![Accpt the License Agreement](profilelicense.png)
-![Now your browser is configured](profiledone.png)
+1. ![Get Firefox](firefox.png)
+2. ![Run the installer](firefox-installer.png)
+3. ![Grab the Firefox Profile](profile.png)
+4. ![Select your language](profilelang.png)
+5. ![Accpt the License Agreement](profilelicense.png)
+6. ![Now your browser is configured](profiledone.png)
 
 ### Part Four: Configure I2P Bandwidth
 
