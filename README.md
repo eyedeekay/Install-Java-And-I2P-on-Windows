@@ -17,14 +17,14 @@ So what are we going to do here?
 
 We're going to finish four tasks. We are going to:
 
- 1. [Install Java](#JAVA)
- 2. Install I2P](#I2P)
- 3. Install a Real Browser(Firefox)](#BROWSER)
- 4. Configure I2P Bandwidth](#BANDWIDTH)
+ 1. [Install Java](#part-one-install-java)
+ 2. [Install I2P](#part-two-install-i2p)
+ 3. [Install a Real Browser(Firefox)](#part-three-install-a-real-browserfirefox)
+ 4. [Configure I2P Bandwidth](#part-four-configure-i2p-bandwidth)
 
 ### Part One: Install Java
 
-If you already have java installed, you may [Skip This Step](#I2P)
+If you already have java installed, you may [Skip This Step](#part-two-install-i2p)
 
 ![Uh oh, no Java yet](nojava.png)
 ![You need Oracle Java for Windows](oraclejava.png)
@@ -38,7 +38,7 @@ If you already have java installed, you may [Skip This Step](#I2P)
 
 ### Part Three: Install a Real Browser(Firefox)
 
-
+If you already have Firefox installed, you may [Skip This Step](#part-four-configure-i2p-bandwidth)
 
 ### Part Four: Configure I2P Bandwidth
 
