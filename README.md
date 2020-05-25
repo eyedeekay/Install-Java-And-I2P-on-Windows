@@ -28,6 +28,7 @@ If you already have java installed, you may [Skip This Step](#part-two-install-i
 
 ![Uh oh, no Java yet](nojava.png)
 ![You need Oracle Java for Windows](oraclejava.png)
+![So download it](getjava.png)
 ![Start installing Java](startjava.png)
 ![Step one](installjava.png)
 ![Step two](installjava2.png)
@@ -35,6 +36,13 @@ If you already have java installed, you may [Skip This Step](#part-two-install-i
 
 ### Part Two: Install I2P
 
+![Download I2P](geti2p.png)
+![Select your Language](i2plang.png)
+![Introduction](i2pnext.png)
+![Accept the License Agreement(or mostly lack thereof)](i2plicense.png)
+![Select the path to install to](i2ppath.png)
+![Finish it up](installrun.png)
+![Finish it up](installed.png)
 
 ### Part Three: Install a Real Browser(Firefox)
 
