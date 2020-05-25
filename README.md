@@ -2,9 +2,9 @@ Installing I2P, its dependencies, and recommended external software on Windows 1
 =================================================================================
 
 Getting I2P installed and configured on Windows has at times been a process which
-left many of our potential users confused. As power-users and developers, this
+left many of our potential participants confused. As power-users and developers, this
 issue is sometimes invisible to us. So to get a better impression of what the
-experience is for a new I2P user, I installed an unfamiliar OS on an old laptop
+experience is for a new I2P participant, I installed an unfamiliar OS on an old laptop
 and undertook the install process, from start to finish.
 
 This is deliberately the most detailed version of this guide I could justify as 
@@ -28,7 +28,11 @@ We're going to finish four tasks. We are going to:
 
 ### Part One: Install Java
 
-If you already have java installed, you may [Skip This Step](#part-two-install-i2p)
+In order to use I2P, you will need a suitable Java environment. On Windows, users should
+probably choose Oracle's Java 8 implementation. Please install it by following the
+instructions below:
+
+If you already have Java installed, you may [Skip This Step](#part-two-install-i2p)
 
 1. I2P requires Java to run, if you don't have Java installed, you will get an error
  that looks like this: ![Uh oh, no Java yet](nojava.png)
@@ -45,6 +49,8 @@ wait for it to finish installing. ![Step one](installjava.png)
 
 ### Part Two: Install I2P
 
+
+
 1. Download I2P from [https://geti2p.net](https://geti2p.net). ![Download I2P](geti2p.png)
 2. I2P is available in many languages. Select one that is familiar to you. ![Select your Language](i2plang.png)
 3. On the first screen, we introduce our software. ![Introduction](i2pnext.png)
@@ -58,10 +64,18 @@ way. ![Select the path to install to](i2ppath.png)
 
 ### Part Three: Install a Real Browser(Firefox)
 
-If you already have Firefox installed, you may [Skip This Step](#part-four-configure-i2p-bandwidth)
+Unfortunately for Windows users, Microsoft Edge does not have proxy settings that are safe to use with I2P. The browser
+that is easiest to configure with I2P in a reasonably good way is Firefox(Although Chrome is possible, this procedure
+is only recommended for experts). I2P participants who want to browse I2P Sites can follow these steps to install
+and configure Firefox for I2P. 
+
+If you already have Firefox installed, you may [Skip This Step](#install-the-i2p-firefox-profile)
 
 1. Get Firefox from [htps://mozilla.org](https://mozilla.org) ![Get Firefox](firefox.png)
 2. Run the installer. ![Run the installer](firefox-installer.png)
+
+#### Install the I2P Firefox Profile
+
 3. Download the Firefox Profile Bundle from the I2P Web Site. ![Grab the Firefox Profile](profile.png)
 4. Select the language you want to use for the install process. ![Select your language](profilelang.png)
 5. The Profile Bundle incorporates lots of external software, so it has a detailed license 
