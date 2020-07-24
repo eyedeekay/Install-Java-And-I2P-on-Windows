@@ -76,7 +76,9 @@ way!
   - ![Wait a moment](installrun.png)
 9. I2P is now installed! ![Finish it up](installed.png)
 
-### Part Three: Install a Real Browser(Firefox)
+### Part Three: Install a Real Browser(Firefox or Tor Browser)
+
+If you already have either Firefox or Tor Browser installed, skip the first 2 steps.
 
 Unfortunately for Windows users, Microsoft Edge does not have proxy settings that are safe to use with I2P. The browser
 that is easiest to configure with I2P in a reasonably good way is Firefox(Although Chrome is possible, this procedure
