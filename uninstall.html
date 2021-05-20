@@ -1,0 +1,53 @@
+<h1 id="unstalling-i2p-from-windows-10-and-other-windows-systems">Unstalling I2P from Windows 10 and other Windows Systems</h1>
+<h2 id="what-are-the-steps">What are the steps?</h2>
+<ul>
+<li>Uninstall I2P</li>
+<li>Delete User Data</li>
+</ul>
+<h3 id="part-one-uninstall-i2p">Part One: Uninstall I2P</h3>
+<p>This is the uninstall process which works for me:</p>
+<ol type="1">
+<li>First, find the <code>C:\Program Files\I2P\Uninstaller</code> directory which contains the uninstaller:</li>
+</ol>
+<ul>
+<li><img src="uninstall/addremove.png" title="fig:" alt="Find the uninstaller" /></li>
+</ul>
+<ol start="2" type="1">
+<li>Start the uninstaller by double-clicking, or by right-clicking and selecting <code>Open</code>.</li>
+</ol>
+<ul>
+<li><img src="uninstall/rclick.png" title="fig:" alt="Start the uninstaller" /></li>
+</ul>
+<ol start="3" type="1">
+<li>Run the uninstaller. Optionally, you can try and force this to remove the install directory too, had an issue getting this to work reliably due to the directory being in use(Open in Windows Explorer), with the uninstaller running in it.</li>
+</ol>
+<ul>
+<li><img src="uninstall/uninst.png" title="fig:" alt="Run the uninstaller" /></li>
+</ul>
+<ol start="4" type="1">
+<li>Now you’re done uninstalling I2P, the I2P software has been removed from your computer.</li>
+</ol>
+<ul>
+<li><img src="uninstall/final.png" title="fig:" alt="You’re done" /></li>
+</ul>
+<ol start="5" type="1">
+<li>Optionally, delete the install directory at <code>C:\Program Files\I2P\</code>.</li>
+</ol>
+<ul>
+<li><img src="uninstall/extra.png" title="fig:" alt="Optionally, delete the program data" /></li>
+</ul>
+<h3 id="part-two-optionally-backup-and-delete-user-data">Part Two: (Optionally backup and) Delete User Data</h3>
+<p>Your I2P user data is probably still in your user profile. If you want to use I2P on another system, you can copy this directory to migrate your settings. You should optionally back up the contents of this directory, and may wish to delete the directory.</p>
+<ol type="1">
+<li>Find your user application data in the application data directory, which is at: <code>C:\Users\youruser\AppData\Local</code> in a directory called <code>I2P</code>.</li>
+<li>Once you have found the data, you should either delete the old data:</li>
+</ol>
+<ul>
+<li><img src="uninstall/userdata.png" title="fig:" alt="Delete the old data" /></li>
+</ul>
+<ol start="2" type="1">
+<li>Or back it up to another device to use it again.</li>
+</ol>
+<ul>
+<li><img src="uninstall/userdata-backup.png" title="fig:" alt="The contents of a typical I2P userdata directory" /></li>
+</ul>
